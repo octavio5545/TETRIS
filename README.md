@@ -1,4 +1,4 @@
 # TETRIS
 (Java)
 
-Opening in Processing 3
+Open up in Processing 3
