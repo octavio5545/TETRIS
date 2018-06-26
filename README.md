@@ -3,4 +3,4 @@
 
 Open up in Processing 3
 
-( Take of: https://www.youtube.com/watch?v=1TQvm8MmkGI&t=708s )
+( Original: taked of https://www.youtube.com/watch?v=1TQvm8MmkGI&t=708s )
